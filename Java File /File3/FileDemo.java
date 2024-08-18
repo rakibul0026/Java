@@ -1,5 +1,3 @@
-
-
 package file.newpackage;
 import java.util.Scanner;
 import java.io.FileNotFoundException;
