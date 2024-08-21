@@ -1,9 +1,7 @@
-
 package newpora;
 
 public class Mainclass {
-
-	public static void main(String[] args) {
+   public static void main(String[] args) {
 		Vehicle ob=new Car();
 		ob.startEngine();
 		ob.stopEngine();
