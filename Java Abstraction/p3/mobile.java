@@ -1,5 +1,4 @@
 package abstract2;
-
 public abstract class mobile {
 	abstract void call();
 	void manage() 
