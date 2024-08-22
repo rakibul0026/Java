@@ -1,4 +1,3 @@
-
 package packagealpha;
 
 public class stasticDemo {
