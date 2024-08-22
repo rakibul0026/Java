@@ -1,7 +1,3 @@
-
-
-
-
 package mycompany;
 
 public class Staticblock {
